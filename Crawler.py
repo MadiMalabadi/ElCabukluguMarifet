@@ -113,8 +113,6 @@ class Logger:
 class Crawler:
 
     Url = 'http://pastebin.com'
-    Username = 'haker_hater'
-    Password = 'Pasw0Rth123'
     PASTES_URL = Url + '/archive'
     REGEXES_FILE = 'regexes.txt'
     OK = 1
